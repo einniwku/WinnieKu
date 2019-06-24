@@ -93,7 +93,7 @@ var home ={
         var feed = new Instafeed({
             get: 'user',
             userId: '1111093104',
-            accessToken: '1111093104.d22e066.d907be90b80642e68d503c4db632e300',
+            accessToken: '1111093104.d22e066.3878962ac7584a66bdbda0a9d72d3649',
             limit: '12',
             template: '<a href="{{link}}" target="_blank" class="{{orientation}}"><div style="background-image:url({{image}});" class="instaimage" ></div></a>'
         });
